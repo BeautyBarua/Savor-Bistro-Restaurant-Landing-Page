@@ -50,12 +50,9 @@ Savor-Bistro-Restaurant-Landing-Page/
 
 ## Screenshot
 
-![Savor Bistro Landing Page](<img width="1889" height="905" alt="image" src="https://github.com/user-attachments/assets/065f709f-4e84-44a2-8bc2-ebe5e630a585" />)
+![Savor Bistro Landing Page](https://github.com/user-attachments/assets/065f709f-4e84-44a2-8bc2-ebe5e630a585)
 
-```markdown
-<img width="1889" height="905" alt="image" src="https://github.com/user-attachments/assets/065f709f-4e84-44a2-8bc2-ebe5e630a585" />
 
-```
 
 ## About This Project
 
