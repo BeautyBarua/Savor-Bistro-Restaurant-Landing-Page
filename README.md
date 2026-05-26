@@ -1,14 +1,11 @@
-
-````markdown
 # Savor Bistro Restaurant Landing Page
 
 A modern and responsive restaurant landing page created for a fictional fine dining restaurant called **Savor Bistro**. This project focuses on clean layout, elegant branding, high-quality food visuals, and a professional user interface.
 
 ## Live Demo
 
-```text
 https://beautybarua.github.io/Savor-Bistro-Restaurant-Landing-Page/
-````
+
 
 ## Project Overview
 
@@ -53,8 +50,6 @@ Savor-Bistro-Restaurant-Landing-Page/
 
 ## Screenshot
 
-Add a screenshot of the landing page here after publishing:
-
 ```markdown
 ![Savor Bistro Landing Page](images/screenshot.png)
 ```
@@ -75,11 +70,7 @@ This is a concept landing page for a fictional restaurant. It was created to pra
 ## Author
 
 **Beauty Barua**
-Computer Science Student | Web Design & Development
+Computer Science Student
 
 GitHub: [BeautyBarua](https://github.com/BeautyBarua)
 
-````
-
-git push
-````
